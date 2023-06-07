@@ -1,0 +1,2 @@
+# journalCpp
+class journal
